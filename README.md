@@ -12,7 +12,7 @@
     <td valign="top"><a href="https://github.com/MAST30034-Applied-Data-Science/generic-real-estate-consulting-project-group-42.git">Real Estate Consulting Project</td>
     <td valign="top">
       Determine the appropriate level for rent a real estate company should be listing their properties, and which properties are most likely to increase in the next five years through
-      analysis of various population datasets and propert data scrabed from domain.com.
+      analysis of various population datasets and property data scraped from domain.com.
     </td>
     <td>
       <ul>
