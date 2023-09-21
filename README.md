@@ -1,5 +1,5 @@
 ### <div align="center"> I'm Kelman Chen a Data Analyst based in Melbourne, Australia</div>  
-<div align="center"> I’m interested in Data Science, Data Analytics and music 🙂</div>
+<div align="center"> I’m interested in Data Science, Data Analytics, Machine Learning and music 🙂</div>
 
 ## Projects
 <table align="center">
