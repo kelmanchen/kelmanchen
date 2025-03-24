@@ -16,7 +16,7 @@
     <td>
       <ul>
         <li>Python</li>
-        <li>Amazon Web Services (AWS): S3 & Redshift</li>
+        <li>Amazon Web Services: S3 & Redshift</li>
         <li>Terraform</li>
         <li>Docker</li>
         <li>Apache Airflow</li>
