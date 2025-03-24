@@ -6,7 +6,24 @@
   <tr>
     <th align="left">Project Name</th>
     <th align="left">Description</th>
-    <th align="left">Main Python Packages</th>
+    <th align="left">Tech Stack</th>
+  </tr>
+    <tr>
+    <td valign="top"><a href="https://github.com/kelmanchen/spotify-charts-pipeline">Spotify Charts ETL Pipeline</td>
+    <td valign="top">
+      An end-to-end data pipeline that extracts and loads Spotify chart data to power a Power BI analytics dashboard.
+    </td>
+    <td>
+      <ul>
+        <li>Python</li>
+        <li>Amazon Web Services (AWS): S3 & Redshift</li>
+        <li>Terraform</li>
+        <li>Docker</li>
+        <li>Apache Airflow</li>
+        <li>dbt</li>
+        <li>Power BI</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/MAST30034-Applied-Data-Science/generic-real-estate-consulting-project-group-42.git">Real Estate Consulting Project</td>
@@ -16,13 +33,8 @@
     </td>
     <td>
       <ul>
-        <li>GeoPandas</li>
-        <li>SciPy</li>
-        <li>Dython</li>
-        <li>Folium</li>
-        <li>Pandas</li>
-        <li>seaborn</li>
-        <li>statsmodel</li>
+        <li>Python (GeoPandas, Folium, Pandas, seaborn, statsmodel, BeautifulSoup) </li>
+        <li>Jupyter Notebooks</li>
       </ul>
     </td>
   <tr>
@@ -33,25 +45,9 @@
     </td>
     <td>
       <ul>
-        <li>PySpark</li>
-        <li>Pandas</li>
-        <li>scikit-learn</li>
-        <li>seaborn</li>
-        <li>statsmodel</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/kelmanchen/tweet-sentiment-analysis.git">Sentiment Classification of Tweets</td>
-    <td valign="top">
-      Comparative analysis of various feature selection methods and classifiers to determine the most effective method for sentiment analysis of Tweets.
-    </td>
-    <td>
-      <ul>
-        <li>Pandas</li>
-        <li>scikit-learn</li>
-        <li>NLTK</li>
-        <li>imbalanced-learn</li>
+        <li>Python (scikit-learn, seaborn, statsmodel, Pandas)</li>
+        <li>Spark</li>
+        <li>Jupyter Notebooks</li>
       </ul>
     </td>
   </tr>
